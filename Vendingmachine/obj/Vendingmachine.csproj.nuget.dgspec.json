@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\1651-Advanced Programming\\Vendingmachine\\Vendingmachine.csproj": {}
+    "G:\\Git\\1651-Advanced-Programming\\Vendingmachine\\Vendingmachine.csproj": {}
   },
   "projects": {
-    "H:\\1651-Advanced Programming\\Vendingmachine\\Vendingmachine.csproj": {
+    "G:\\Git\\1651-Advanced-Programming\\Vendingmachine\\Vendingmachine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\1651-Advanced Programming\\Vendingmachine\\Vendingmachine.csproj",
+        "projectUniqueName": "G:\\Git\\1651-Advanced-Programming\\Vendingmachine\\Vendingmachine.csproj",
         "projectName": "Vendingmachine",
-        "projectPath": "H:\\1651-Advanced Programming\\Vendingmachine\\Vendingmachine.csproj",
+        "projectPath": "G:\\Git\\1651-Advanced-Programming\\Vendingmachine\\Vendingmachine.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "H:\\1651-Advanced Programming\\Vendingmachine\\obj\\",
+        "outputPath": "G:\\Git\\1651-Advanced-Programming\\Vendingmachine\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

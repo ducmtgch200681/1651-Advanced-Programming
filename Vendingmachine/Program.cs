@@ -45,6 +45,8 @@ namespace Vendingmachine
                     case 3:
                         Console.WriteLine("3");
                         break;
+                    default:
+                        break;
                 }
             }
             while (!option.Equals(4));

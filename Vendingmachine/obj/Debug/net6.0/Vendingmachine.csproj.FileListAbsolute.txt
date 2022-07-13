@@ -13,3 +13,18 @@ H:\1651-Advanced Programming\Vendingmachine\obj\Debug\net6.0\refint\Vendingmachi
 H:\1651-Advanced Programming\Vendingmachine\obj\Debug\net6.0\Vendingmachine.pdb
 H:\1651-Advanced Programming\Vendingmachine\obj\Debug\net6.0\Vendingmachine.genruntimeconfig.cache
 H:\1651-Advanced Programming\Vendingmachine\obj\Debug\net6.0\ref\Vendingmachine.dll
+G:\Git\1651-Advanced-Programming\Vendingmachine\bin\Debug\net6.0\Vendingmachine.exe
+G:\Git\1651-Advanced-Programming\Vendingmachine\bin\Debug\net6.0\Vendingmachine.deps.json
+G:\Git\1651-Advanced-Programming\Vendingmachine\bin\Debug\net6.0\Vendingmachine.runtimeconfig.json
+G:\Git\1651-Advanced-Programming\Vendingmachine\bin\Debug\net6.0\Vendingmachine.dll
+G:\Git\1651-Advanced-Programming\Vendingmachine\bin\Debug\net6.0\Vendingmachine.pdb
+G:\Git\1651-Advanced-Programming\Vendingmachine\obj\Debug\net6.0\Vendingmachine.csproj.AssemblyReference.cache
+G:\Git\1651-Advanced-Programming\Vendingmachine\obj\Debug\net6.0\Vendingmachine.GeneratedMSBuildEditorConfig.editorconfig
+G:\Git\1651-Advanced-Programming\Vendingmachine\obj\Debug\net6.0\Vendingmachine.AssemblyInfoInputs.cache
+G:\Git\1651-Advanced-Programming\Vendingmachine\obj\Debug\net6.0\Vendingmachine.AssemblyInfo.cs
+G:\Git\1651-Advanced-Programming\Vendingmachine\obj\Debug\net6.0\Vendingmachine.csproj.CoreCompileInputs.cache
+G:\Git\1651-Advanced-Programming\Vendingmachine\obj\Debug\net6.0\Vendingmachine.dll
+G:\Git\1651-Advanced-Programming\Vendingmachine\obj\Debug\net6.0\refint\Vendingmachine.dll
+G:\Git\1651-Advanced-Programming\Vendingmachine\obj\Debug\net6.0\Vendingmachine.pdb
+G:\Git\1651-Advanced-Programming\Vendingmachine\obj\Debug\net6.0\Vendingmachine.genruntimeconfig.cache
+G:\Git\1651-Advanced-Programming\Vendingmachine\obj\Debug\net6.0\ref\Vendingmachine.dll
