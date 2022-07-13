@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Git\\1651-Advanced-Programming\\Vendingmachine\\Vendingmachine.csproj": {}
+    "E:\\GitHub\\1651-Advanced-Programming\\Vendingmachine\\Vendingmachine.csproj": {}
   },
   "projects": {
-    "G:\\Git\\1651-Advanced-Programming\\Vendingmachine\\Vendingmachine.csproj": {
+    "E:\\GitHub\\1651-Advanced-Programming\\Vendingmachine\\Vendingmachine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Git\\1651-Advanced-Programming\\Vendingmachine\\Vendingmachine.csproj",
+        "projectUniqueName": "E:\\GitHub\\1651-Advanced-Programming\\Vendingmachine\\Vendingmachine.csproj",
         "projectName": "Vendingmachine",
-        "projectPath": "G:\\Git\\1651-Advanced-Programming\\Vendingmachine\\Vendingmachine.csproj",
+        "projectPath": "E:\\GitHub\\1651-Advanced-Programming\\Vendingmachine\\Vendingmachine.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "G:\\Git\\1651-Advanced-Programming\\Vendingmachine\\obj\\",
+        "outputPath": "E:\\GitHub\\1651-Advanced-Programming\\Vendingmachine\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
