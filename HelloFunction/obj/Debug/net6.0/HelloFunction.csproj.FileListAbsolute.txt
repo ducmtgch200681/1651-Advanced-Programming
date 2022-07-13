@@ -1,0 +1,15 @@
+H:\1651-Advanced Programming\HelloFunction\bin\Debug\net6.0\HelloFunction.exe
+H:\1651-Advanced Programming\HelloFunction\bin\Debug\net6.0\HelloFunction.deps.json
+H:\1651-Advanced Programming\HelloFunction\bin\Debug\net6.0\HelloFunction.runtimeconfig.json
+H:\1651-Advanced Programming\HelloFunction\bin\Debug\net6.0\HelloFunction.dll
+H:\1651-Advanced Programming\HelloFunction\bin\Debug\net6.0\HelloFunction.pdb
+H:\1651-Advanced Programming\HelloFunction\obj\Debug\net6.0\HelloFunction.csproj.AssemblyReference.cache
+H:\1651-Advanced Programming\HelloFunction\obj\Debug\net6.0\HelloFunction.GeneratedMSBuildEditorConfig.editorconfig
+H:\1651-Advanced Programming\HelloFunction\obj\Debug\net6.0\HelloFunction.AssemblyInfoInputs.cache
+H:\1651-Advanced Programming\HelloFunction\obj\Debug\net6.0\HelloFunction.AssemblyInfo.cs
+H:\1651-Advanced Programming\HelloFunction\obj\Debug\net6.0\HelloFunction.csproj.CoreCompileInputs.cache
+H:\1651-Advanced Programming\HelloFunction\obj\Debug\net6.0\HelloFunction.dll
+H:\1651-Advanced Programming\HelloFunction\obj\Debug\net6.0\refint\HelloFunction.dll
+H:\1651-Advanced Programming\HelloFunction\obj\Debug\net6.0\HelloFunction.pdb
+H:\1651-Advanced Programming\HelloFunction\obj\Debug\net6.0\HelloFunction.genruntimeconfig.cache
+H:\1651-Advanced Programming\HelloFunction\obj\Debug\net6.0\ref\HelloFunction.dll

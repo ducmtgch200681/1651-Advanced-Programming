@@ -1,0 +1,15 @@
+H:\1651-Advanced Programming\Vendingmachine\obj\Debug\net6.0\Vendingmachine.csproj.AssemblyReference.cache
+H:\1651-Advanced Programming\Vendingmachine\obj\Debug\net6.0\Vendingmachine.GeneratedMSBuildEditorConfig.editorconfig
+H:\1651-Advanced Programming\Vendingmachine\obj\Debug\net6.0\Vendingmachine.AssemblyInfoInputs.cache
+H:\1651-Advanced Programming\Vendingmachine\obj\Debug\net6.0\Vendingmachine.AssemblyInfo.cs
+H:\1651-Advanced Programming\Vendingmachine\obj\Debug\net6.0\Vendingmachine.csproj.CoreCompileInputs.cache
+H:\1651-Advanced Programming\Vendingmachine\bin\Debug\net6.0\Vendingmachine.exe
+H:\1651-Advanced Programming\Vendingmachine\bin\Debug\net6.0\Vendingmachine.deps.json
+H:\1651-Advanced Programming\Vendingmachine\bin\Debug\net6.0\Vendingmachine.runtimeconfig.json
+H:\1651-Advanced Programming\Vendingmachine\bin\Debug\net6.0\Vendingmachine.dll
+H:\1651-Advanced Programming\Vendingmachine\bin\Debug\net6.0\Vendingmachine.pdb
+H:\1651-Advanced Programming\Vendingmachine\obj\Debug\net6.0\Vendingmachine.dll
+H:\1651-Advanced Programming\Vendingmachine\obj\Debug\net6.0\refint\Vendingmachine.dll
+H:\1651-Advanced Programming\Vendingmachine\obj\Debug\net6.0\Vendingmachine.pdb
+H:\1651-Advanced Programming\Vendingmachine\obj\Debug\net6.0\Vendingmachine.genruntimeconfig.cache
+H:\1651-Advanced Programming\Vendingmachine\obj\Debug\net6.0\ref\Vendingmachine.dll
