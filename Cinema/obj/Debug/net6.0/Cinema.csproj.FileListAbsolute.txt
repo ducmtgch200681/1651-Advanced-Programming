@@ -1,0 +1,15 @@
+G:\Git\1651-Advanced-Programming\Cinema\obj\Debug\net6.0\Cinema.csproj.AssemblyReference.cache
+G:\Git\1651-Advanced-Programming\Cinema\obj\Debug\net6.0\Cinema.GeneratedMSBuildEditorConfig.editorconfig
+G:\Git\1651-Advanced-Programming\Cinema\obj\Debug\net6.0\Cinema.AssemblyInfoInputs.cache
+G:\Git\1651-Advanced-Programming\Cinema\obj\Debug\net6.0\Cinema.AssemblyInfo.cs
+G:\Git\1651-Advanced-Programming\Cinema\obj\Debug\net6.0\Cinema.csproj.CoreCompileInputs.cache
+G:\Git\1651-Advanced-Programming\Cinema\bin\Debug\net6.0\Cinema.exe
+G:\Git\1651-Advanced-Programming\Cinema\bin\Debug\net6.0\Cinema.deps.json
+G:\Git\1651-Advanced-Programming\Cinema\bin\Debug\net6.0\Cinema.runtimeconfig.json
+G:\Git\1651-Advanced-Programming\Cinema\bin\Debug\net6.0\Cinema.dll
+G:\Git\1651-Advanced-Programming\Cinema\bin\Debug\net6.0\Cinema.pdb
+G:\Git\1651-Advanced-Programming\Cinema\obj\Debug\net6.0\Cinema.dll
+G:\Git\1651-Advanced-Programming\Cinema\obj\Debug\net6.0\refint\Cinema.dll
+G:\Git\1651-Advanced-Programming\Cinema\obj\Debug\net6.0\Cinema.pdb
+G:\Git\1651-Advanced-Programming\Cinema\obj\Debug\net6.0\Cinema.genruntimeconfig.cache
+G:\Git\1651-Advanced-Programming\Cinema\obj\Debug\net6.0\ref\Cinema.dll

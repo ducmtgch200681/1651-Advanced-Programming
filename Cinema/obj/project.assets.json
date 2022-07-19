@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Git\\1651-Advanced-Programming\\Vendingmachine\\Vendingmachine.csproj",
-      "projectName": "Vendingmachine",
-      "projectPath": "G:\\Git\\1651-Advanced-Programming\\Vendingmachine\\Vendingmachine.csproj",
+      "projectUniqueName": "G:\\Git\\1651-Advanced-Programming\\Cinema\\Cinema.csproj",
+      "projectName": "Cinema",
+      "projectPath": "G:\\Git\\1651-Advanced-Programming\\Cinema\\Cinema.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "G:\\Git\\1651-Advanced-Programming\\Vendingmachine\\obj\\",
+      "outputPath": "G:\\Git\\1651-Advanced-Programming\\Cinema\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
