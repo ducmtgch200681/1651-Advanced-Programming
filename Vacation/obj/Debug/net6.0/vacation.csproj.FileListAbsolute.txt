@@ -1,0 +1,15 @@
+E:\GitHub\1651-Advanced-Programming\Vacation\obj\Debug\net6.0\vacation.csproj.AssemblyReference.cache
+E:\GitHub\1651-Advanced-Programming\Vacation\obj\Debug\net6.0\vacation.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\1651-Advanced-Programming\Vacation\obj\Debug\net6.0\vacation.AssemblyInfoInputs.cache
+E:\GitHub\1651-Advanced-Programming\Vacation\obj\Debug\net6.0\vacation.AssemblyInfo.cs
+E:\GitHub\1651-Advanced-Programming\Vacation\obj\Debug\net6.0\vacation.csproj.CoreCompileInputs.cache
+E:\GitHub\1651-Advanced-Programming\Vacation\bin\Debug\net6.0\vacation.exe
+E:\GitHub\1651-Advanced-Programming\Vacation\bin\Debug\net6.0\vacation.deps.json
+E:\GitHub\1651-Advanced-Programming\Vacation\bin\Debug\net6.0\vacation.runtimeconfig.json
+E:\GitHub\1651-Advanced-Programming\Vacation\bin\Debug\net6.0\vacation.dll
+E:\GitHub\1651-Advanced-Programming\Vacation\bin\Debug\net6.0\vacation.pdb
+E:\GitHub\1651-Advanced-Programming\Vacation\obj\Debug\net6.0\vacation.dll
+E:\GitHub\1651-Advanced-Programming\Vacation\obj\Debug\net6.0\refint\vacation.dll
+E:\GitHub\1651-Advanced-Programming\Vacation\obj\Debug\net6.0\vacation.pdb
+E:\GitHub\1651-Advanced-Programming\Vacation\obj\Debug\net6.0\vacation.genruntimeconfig.cache
+E:\GitHub\1651-Advanced-Programming\Vacation\obj\Debug\net6.0\ref\vacation.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\GitHub\\1651-Advanced-Programming\\vacation\\vacation.csproj": {}
+    "E:\\GitHub\\1651-Advanced-Programming\\Vacation\\vacation.csproj": {}
   },
   "projects": {
-    "E:\\GitHub\\1651-Advanced-Programming\\vacation\\vacation.csproj": {
+    "E:\\GitHub\\1651-Advanced-Programming\\Vacation\\vacation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GitHub\\1651-Advanced-Programming\\vacation\\vacation.csproj",
+        "projectUniqueName": "E:\\GitHub\\1651-Advanced-Programming\\Vacation\\vacation.csproj",
         "projectName": "vacation",
-        "projectPath": "E:\\GitHub\\1651-Advanced-Programming\\vacation\\vacation.csproj",
+        "projectPath": "E:\\GitHub\\1651-Advanced-Programming\\Vacation\\vacation.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\GitHub\\1651-Advanced-Programming\\vacation\\obj\\",
+        "outputPath": "E:\\GitHub\\1651-Advanced-Programming\\Vacation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
